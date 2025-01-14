@@ -34,7 +34,6 @@ Local Live2D AI Chatbot is a desktop application that enables interactive conver
 - **Emotional Expression System**: Characters respond with contextual emotions
 - **Modern UI**: Clean, responsive interface built with Next.js 14
 - **Privacy Focused**: No data sent to external servers
-- **Cross-Platform**: Runs on Windows, macOS, and Linux
 
 
 ## 🛠️ Tech Stack
