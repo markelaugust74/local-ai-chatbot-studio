@@ -13,11 +13,13 @@ Local Live2D AI Chatbot is a desktop application that enables interactive conver
 <div align="center">
   <img src="live2D chatbox preview images/Screenshot 2025-01-13 230929.png" alt="Main Interface" width="350px" style="margin: 10px;" />
   <img src="live2D chatbox preview images/Screenshot 2025-01-13 231314.png" alt="Character Interaction" width="350px" style="margin: 10px;" />
+  <img src="live2D chatbox preview images/chat.gif" alt="Character Interaction" width="350px" style="margin: 10px;" />
 </div>
 
 <div align="center">
   <img src="live2D chatbox preview images/Screenshot 2025-01-13 230732.png" alt="Emotional Response" width="350px" style="margin: 10px;" />
   <img src="live2D chatbox preview images/Screenshot 2025-01-13 230854.png" alt="Chat Interface" width="350px" style="margin: 10px;" />
+  
 </div>
 
 ## ✨ Features
