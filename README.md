@@ -1,7 +1,7 @@
 # Local Live2D AI Chatbot
 
 <div align="center">
-  <img src="live2D chatbox preview images/ezgif-4-03e3863af8.gif" alt="Live2D Chatbot Demo" width="600px" />
+  <img src="live2D chatbox preview images/ezgif-4-03e3863af8.gif" alt="Live2D Chatbot Demo" width="800px" />
 </div>
 
 ## 🌟 Overview
@@ -10,15 +10,18 @@ Local Live2D AI Chatbot is a desktop application that enables interactive conver
 
 ## 📸 Preview
 
-<p align="center">
-  <img src="live2D chatbox preview images/Screenshot 2025-01-13 230929.png" width="400px" />
-  <img src="live2D chatbox preview images/Screenshot 2025-01-13 231314.png" width="400px" />
-</p>
-
-<p align="center">
-  <img src="live2D chatbox preview images/Screenshot 2025-01-13 230732.png" width="400px" />
-  <img src="live2D chatbox preview images/Screenshot 2025-01-13 230854.png" width="400px" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="live2D chatbox preview images/Screenshot 2025-01-13 230929.png" width="400px" /></td>
+      <td><img src="live2D chatbox preview images/Screenshot 2025-01-13 231314.png" width="400px" /></td>
+    </tr>
+    <tr>
+      <td><img src="live2D chatbox preview images/Screenshot 2025-01-13 230732.png" width="400px" /></td>
+      <td><img src="live2D chatbox preview images/Screenshot 2025-01-13 230854.png" width="400px" /></td>
+    </tr>
+  </table>
+</div>
 
 <p align="center">
   <img src="live2D chatbox preview images/chat.gif" width="600px" />
