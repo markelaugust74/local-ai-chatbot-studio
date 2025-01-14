@@ -36,37 +36,6 @@ Local Live2D AI Chatbot is a desktop application that enables interactive conver
 - **Privacy Focused**: No data sent to external servers
 - **Cross-Platform**: Runs on Windows, macOS, and Linux
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Node.js 18.0 or higher
-- npm or yarn
-- [Ollama](https://ollama.ai/) installed on your system
-
-### Installation
-
-1. Clone the repository
-```bash
-git clone https://github.com/markelaugust74/Live2D-AI-Chatbot.git
-cd Live2D-AI-Chatbot
-```
-
-2. Install dependencies
-```bash
-npm install
-# or
-yarn install
-```
-
-3. Start the development server
-```bash
-npm run dev
-# or
-yarn dev
-```
-
-4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
 ## 🛠️ Tech Stack
 
@@ -89,10 +58,6 @@ yarn dev
 ## 🤝 Contributing
 
 This project is currently in early development. Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/markelaugust74/Live2D-AI-Chatbot/issues).
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## ⭐ Support
 
