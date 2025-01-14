@@ -10,17 +10,19 @@ Local Live2D AI Chatbot is a desktop application that enables interactive conver
 
 ## 📸 Preview
 
-<div align="center">
-  <img src="live2D chatbox preview images/Screenshot 2025-01-13 230929.png" alt="Main Interface" width="350px" style="margin: 10px;" />
-  <img src="live2D chatbox preview images/Screenshot 2025-01-13 231314.png" alt="Character Interaction" width="350px" style="margin: 10px;" />
-  <img src="live2D chatbox preview images/chat.gif" alt="Character Interaction" width="350px" style="margin: 10px;" />
-</div>
+<p align="center">
+  <img src="live2D chatbox preview images/Screenshot 2025-01-13 230929.png" width="400px" />
+  <img src="live2D chatbox preview images/Screenshot 2025-01-13 231314.png" width="400px" />
+</p>
 
-<div align="center">
-  <img src="live2D chatbox preview images/Screenshot 2025-01-13 230732.png" alt="Emotional Response" width="350px" style="margin: 10px;" />
-  <img src="live2D chatbox preview images/Screenshot 2025-01-13 230854.png" alt="Chat Interface" width="350px" style="margin: 10px;" />
-  
-</div>
+<p align="center">
+  <img src="live2D chatbox preview images/Screenshot 2025-01-13 230732.png" width="400px" />
+  <img src="live2D chatbox preview images/Screenshot 2025-01-13 230854.png" width="400px" />
+</p>
+
+<p align="center">
+  <img src="live2D chatbox preview images/chat.gif" width="600px" />
+</p>
 
 ## ✨ Features
 
@@ -31,6 +33,37 @@ Local Live2D AI Chatbot is a desktop application that enables interactive conver
 - **Privacy Focused**: No data sent to external servers
 - **Cross-Platform**: Runs on Windows, macOS, and Linux
 
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js 18.0 or higher
+- npm or yarn
+- [Ollama](https://ollama.ai/) installed on your system
+
+### Installation
+
+1. Clone the repository
+```bash
+git clone https://github.com/markelaugust74/Live2D-AI-Chatbot.git
+cd Live2D-AI-Chatbot
+```
+
+2. Install dependencies
+```bash
+npm install
+# or
+yarn install
+```
+
+3. Start the development server
+```bash
+npm run dev
+# or
+yarn dev
+```
+
+4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
 ## 🛠️ Tech Stack
 
@@ -53,6 +86,10 @@ Local Live2D AI Chatbot is a desktop application that enables interactive conver
 ## 🤝 Contributing
 
 This project is currently in early development. Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/markelaugust74/Live2D-AI-Chatbot/issues).
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## ⭐ Support
 
