@@ -54,6 +54,7 @@ Local Live2D AI Chatbot is a desktop application that enables interactive conver
 - [ ] Add character customization
 - [ ] Improve animation transitions
 - [ ] Multi-character conversations
+- [ ] Guide for install on GitHub *soon*
 
 ## 🤝 Contributing
 
